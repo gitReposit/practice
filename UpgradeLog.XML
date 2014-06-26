@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsimTraders">
+</Property><Property Name="Solution File" Value="F:\Final\AsimTraders\AsimTraders.sln">
+</Property><Property Name="Date" Value="Sunday, February 24, 2013">
+</Property><Property Name="Time" Value="14:14:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="AsimTraders" Source="AsimTraders.csproj" Description="Project file successfully backed up as F:\Final\AsimTraders\Backup\AsimTraders.csproj">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Add_accounts.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Add_accounts.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Add_accounts.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Add_accounts.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Add_customer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Add_customer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Add_customer.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Add_customer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Balance.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Balance.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Balance.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Balance.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="banking.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\banking.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="banking.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\banking.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Criteria_bankReport.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Criteria_bankReport.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Criteria_bankReport.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Criteria_bankReport.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="criteria_reportReg.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\criteria_reportReg.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="criteria_reportReg.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\criteria_reportReg.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_report.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_report.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_report.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_report.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Dates.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Dates.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="db_read.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\db_read.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="db_read_Access.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\db_read_Access.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="db_scalar.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\db_scalar.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="db_update.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\db_update.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="editTable.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\editTable.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="editTable.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\editTable.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_OrderUnkwn.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_OrderUnkwn.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_OrderUnkwn.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_OrderUnkwn.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Ist_Order.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Ist_Order.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Ist_Order.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Ist_Order.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Login.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Login.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Login.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Login.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="main_menu.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\main_menu.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Form1.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Accounts.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Accounts.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Form2.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_OrderReg.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_OrderReg.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_OrderReg.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_OrderReg.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Bank_MENU.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Bank_MENU.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Bank_MENU.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Bank_MENU.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Bank_Report.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Bank_Report.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Bank_Report.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Bank_Report.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Stalks_MENU.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Stalks_MENU.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Stalks_MENU.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Stalks_MENU.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Program.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Stalks_update.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Stalks_update.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Stalks_update.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Stalks_update.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="criteria_reportUnkwn.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\criteria_reportUnkwn.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="criteria_reportUnkwn.designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\criteria_reportUnkwn.designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="update_Balance.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\update_Balance.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="update_Balance.Designer.cs" Description="File successfully backed up as F:\Final\AsimTraders\Backup\update_Balance.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Properties\Settings.settings" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Accounts.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Accounts.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Add_accounts.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Add_accounts.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Add_customer.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Add_customer.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Balance.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Balance.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="banking.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\banking.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Criteria_bankReport.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Criteria_bankReport.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="criteria_reportReg.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\criteria_reportReg.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_report.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_report.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="editTable.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\editTable.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_OrderReg.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_OrderReg.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Customer_OrderUnkwn.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Customer_OrderUnkwn.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Ist_Order.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Ist_Order.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Login.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Login.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="main_menu.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\main_menu.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Bank_MENU.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Bank_MENU.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Bank_Report.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Bank_Report.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Stalks_MENU.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Stalks_MENU.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Properties\Resources.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="Stalks_update.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\Stalks_update.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="criteria_reportUnkwn.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\criteria_reportUnkwn.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="update_Balance.resx" Description="File successfully backed up as F:\Final\AsimTraders\Backup\update_Balance.resx">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="AsimTraders.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsimTraders" Source="AsimTraders.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsimTraders" Source="AsimTraders.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
